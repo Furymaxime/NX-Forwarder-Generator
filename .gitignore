@@ -1,0 +1,7 @@
+images/
+input/
+node_modules/
+temp/
+output/
+prod.keys
+titles.json
